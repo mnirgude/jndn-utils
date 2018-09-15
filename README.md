@@ -1,4 +1,6 @@
 # jndn-utils
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmnirgude%2Fjndn-utils.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmnirgude%2Fjndn-utils?ref=badge_shield)
+
 
 This project is a collection of tools to simplify synchronous and asynchronous data transfer over the NDN network. It relies on the [NDN Protocol](https://named-data.net) and its associated [client library](https://github.com/named-data/jndn).
 
@@ -60,3 +62,6 @@ Copyright &copy; 2015, Intel Corporation.
 This program is free software; you can redistribute it and/or modify it under the terms and conditions of the GNU Lesser General Public License, version 3, as published by the Free Software Foundation.
 
 This program is distributed in the hope it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the [GNU Lesser General Public License](https://github.com/01org/jndn-utils/blob/master/LICENSE) for more details.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmnirgude%2Fjndn-utils.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmnirgude%2Fjndn-utils?ref=badge_large)
